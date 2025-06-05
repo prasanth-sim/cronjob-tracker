@@ -1,0 +1,4 @@
+*/10 * * * * /home/prasanth/cronjob-tracker/scripts/script1.sh
+*/10 * * * * /home/prasanth/cronjob-tracker/scripts/script2.sh
+*/10 * * * * /home/prasanth/cronjob-tracker/scripts/script3.sh
+*/10 * * * * /home/prasanth/cronjob-tracker/scripts/auto_git_tracker.sh
